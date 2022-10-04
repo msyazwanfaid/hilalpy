@@ -19,6 +19,9 @@ Should all of the steps done properly, Hilalpy would be ready to use.
 
 Demonstration of HilalPy and it use cases is available at https://github.com/msyazwanfaid/hilalpy/raw/main/Hilal%20Py%20Demonstration.docx 
 
+## Data of HilalPy
+HilalPy uses 8004 data of lunar crescent sighting. These data are extracted from various literature and website of lunar crescent observation, and continously updated. Data of HilalPy is available publicly and can be extracted at https://github.com/msyazwanfaid/hilalpy/blob/main/Final.csv 
+
 
 
 
