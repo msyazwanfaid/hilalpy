@@ -15,7 +15,7 @@ HilalPy is located at the PyPi repository. This mean that Hilalpy is publicly av
   
 Should all of the steps done properly, Hilalpy would be ready to use.
 
-##Demonstration of HilalPy
+## Demonstration of HilalPy
 
 Demonstration of HilalPy and it use cases is available at https://github.com/msyazwanfaid/hilalpy/raw/main/Hilal%20Py%20Demonstration.docx 
 
