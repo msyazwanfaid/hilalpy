@@ -1,5 +1,5 @@
-# hilalpy
-HilalPy is a python library that function as an analysis tool for lunar crescent visibility criteria using integrated lunar crescent sighting database. HilalPy is the product of the thesis, as discussed in Chapter 4. HilalPy is deposited at Python Package Index, PyPi. 
+# HilalPy
+HilalPy is a python library that function as an analysis tool for lunar crescent visibility criteria using integrated lunar crescent sighting database. HilalPy is deposited at Python Package Index, PyPi. 
 
 ## Installation of Hilalpy and its dependencies
 
@@ -14,6 +14,10 @@ HilalPy is located at the PyPi repository. This mean that Hilalpy is publicly av
 6. Hilalpy has various dependencies in order to operate its lunar crescent observation analysis for lunar crescent visibility assessment. To install all HilalPy dependencies, a command below can be executed on the windows PowerShell.
   
 Should all of the steps done properly, Hilalpy would be ready to use.
+
+##Demonstration of HilalPy
+
+Demonstration of HilalPy and it use cases is available at https://github.com/msyazwanfaid/hilalpy/raw/main/Hilal%20Py%20Demonstration.docx 
 
 
 
