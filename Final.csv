@@ -1,4 +1,4 @@
-﻿Ref No,Year,Month,Day,Lat,Long,TZ,M,V,O,I,Ele,NE,B,T,CCD,witness,Cloud Condition,Atmoshperic Condition,Sunset,Moonset,LT,MA,JD,ArcV,ArcL,DAZ,Width,Moon Alt,Ref No
+﻿Ref No,Year,Month,Day,Lat,Long,TZ,M,V,O,I,Ele,NE,B,T,CCD,witness,Cloud Condition,Atmoshperic Condition,Sunset,Moonset,LT,MA,JD,ArcV,ArcL,DAZ,Width,MAlt,Ref No
 AlR1,1988,3,19,23.55,46.39,3,NE,V,E,,758.69,,,,,,,,15:10,16:43,93,37.13,2447240.13,20.28,20.43,2.54,61.93,18.35,AlR1
 AlR10,1991,4,15,28.4,36.73,3,OA,V,E,,785.47,,,,,,,,16:03,16:58,54.95,20.43,2448362.17,10.94,11.44,3.35,19.41,9.11,AlR10
 AlR100,2010,10,9,24.39,39.63,3,NE,V,E,,654.81,,,,,,,,15:05,16:10,65.17,,2455479.13,13.09,25.28,21.75,93.75,11.3,AlR100
