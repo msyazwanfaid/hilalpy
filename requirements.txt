@@ -5,3 +5,4 @@ Matplotlib
 Seaborn
 Sympy
 NumExpr
+pymongo
