@@ -6,3 +6,4 @@ Seaborn
 Sympy
 NumExpr
 pymongo
+python-docx
